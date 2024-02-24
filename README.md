@@ -1,5 +1,5 @@
 # Componentes_Acessibilidade
-Curso de Angular: design de componentes com acessibilidade
+Curso de Angular: [angular-introducao-componentes-acessibilidade](https://cursos.alura.com.br/course/angular-introducao-componentes-acessibilidade)
 
 Utilizando padrões da [W3C](https://www.w3.org/WAI/standards-guidelines/wcag/), tornando o form mais acessível através do teclado.
 
